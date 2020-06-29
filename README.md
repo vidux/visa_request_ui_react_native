@@ -17,3 +17,4 @@ this is a dummy visa request created using react native. this is not functional.
 - react-navigation 5
 - react native paper
 - react native elements
+- react native vector icons
