@@ -18,7 +18,7 @@
     "@react-navigation/stack": "^5.5.1",
     "axios": "^0.21.1",
     "lodash": "^4.17.19",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-country-picker-modal": "^1.11.0",
